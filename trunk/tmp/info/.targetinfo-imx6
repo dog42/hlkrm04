@@ -1,0 +1,29 @@
+Source-Makefile: target/linux/imx6/Makefile
+Target: imx6
+Target-Board: imx6
+Target-Name: Freescale i.MX 6 Series
+Target-Path: /home/dogi/openwrt/trunk
+Target-Arch: arm
+Target-Arch-Packages: imx6
+Target-Features: audio display gpio pci pcie squashfs targz usb usbgadget
+Target-Depends: 
+Target-Optimization: -Os -pipe -march=armv7-a -mtune=cortex-a9 -mfpu=vfpv3-d16 -mfloat-abi=softfp
+CPU-Type: cortex-a9+vfpv3
+Linux-Version: 3.10.13
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c 
+Target-Profile: Generic
+Target-Profile-Name: Generic (default)
+Target-Profile-Packages: kmod-thermal-imx kmod-usb-chipidea kmod-usb-mxs-phy uboot-envtools
+Target-Profile-Config: 
+
+@@
+Target-Profile-Description:
+ Package set compatible with most Freescale i.MX 6 based boards.
+@@
+
+

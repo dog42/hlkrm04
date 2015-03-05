@@ -1,0 +1,4 @@
+/etc/modules.d/rt2800-pci
+/lib/firmware/rt3290.bin
+/lib/modules/3.10.13/rt2800pci.ko
+/lib/firmware/rt2860.bin

@@ -1,0 +1,2 @@
+/etc/modules.d/30-fs-ntfs
+/lib/modules/3.10.13/ntfs.ko

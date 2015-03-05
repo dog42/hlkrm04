@@ -1,0 +1,17 @@
+Source-Makefile: package/network/ipv6/odhcp6c/Makefile
+Package: odhcp6c
+Version: 2013-10-07-d2c90000292f62962276579fa6b2eac1ff4b76e6
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +kmod-ipv6
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: Embedded DHCPv6-client for OpenWrt
+Maintainer: Steven Barth <steven@midlink.org>
+Source: odhcp6c-2013-10-07.tar.bz2
+Type: ipkg
+Description: Embedded DHCPv6-client for OpenWrt
+Steven Barth <steven@midlink.org>
+@@
+
+

@@ -1,0 +1,10 @@
+e3e451ab7d9345579b1cc73a4ad7d710 *openwrt-ramips-rt305x-hlk-rm04-initramfs-factory.bin
+3ce1c91bdb5c50dcf694e38eaa6f6b85 *openwrt-ramips-rt305x-hlk-rm04-initramfs-uImage.bin
+14fbe7231474ac027ce2380bda6d29c4 *openwrt-ramips-rt305x-hlk-rm04-squashfs-sysupgrade.bin
+4bd0a2f91c3ef413df7acf37709e19dc *openwrt-ramips-rt305x-root.squashfs
+f756837a63d1666787d7a82db1cc78f5 *openwrt-ramips-rt305x-uImage-initramfs.bin
+4bf835ca3b2582ceac8d6eb0ca5a82de *openwrt-ramips-rt305x-uImage.bin
+183e68f7fb7247345780097ef9d50bc6 *openwrt-ramips-rt305x-vmlinux-initramfs.bin
+896b9dce43649a9f0ec39fc39fc2538a *openwrt-ramips-rt305x-vmlinux-initramfs.elf
+60f1668583958fd12b00a0dfbb9a27d0 *openwrt-ramips-rt305x-vmlinux.bin
+2065d08a4a59c726413022f7e0f2c6ad *openwrt-ramips-rt305x-vmlinux.elf

@@ -1,0 +1,2 @@
+/etc/modules.d/rt2x00-soc
+/lib/modules/3.10.13/rt2x00soc.ko

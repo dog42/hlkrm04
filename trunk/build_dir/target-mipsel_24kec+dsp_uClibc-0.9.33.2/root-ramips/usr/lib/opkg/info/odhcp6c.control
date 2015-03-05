@@ -1,0 +1,11 @@
+Package: odhcp6c
+Version: 2013-10-07-d2c90000292f62962276579fa6b2eac1ff4b76e6
+Depends: libc, kmod-ipv6
+Source: package/network/ipv6/odhcp6c
+SourceFile: odhcp6c-2013-10-07.tar.bz2
+SourceURL: git://github.com/sbyx/odhcp6c.git
+Section: net
+Maintainer: Steven Barth <steven@midlink.org>
+Architecture: ramips_24kec
+Installed-Size: 18127
+Description:  Embedded DHCPv6-client for OpenWrt

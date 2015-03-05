@@ -1,0 +1,2 @@
+/etc/modules.d/usb-serial
+/lib/modules/3.10.13/usbserial.ko

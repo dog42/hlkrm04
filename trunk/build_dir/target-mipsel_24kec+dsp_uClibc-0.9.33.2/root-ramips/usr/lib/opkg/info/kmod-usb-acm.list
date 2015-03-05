@@ -1,0 +1,2 @@
+/etc/modules.d/usb-acm
+/lib/modules/3.10.13/cdc-acm.ko

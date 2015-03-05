@@ -1,0 +1,1 @@
+@set LOCATE_DB /home/dogi/openwrt/trunk/staging_dir/host/var/locatedb

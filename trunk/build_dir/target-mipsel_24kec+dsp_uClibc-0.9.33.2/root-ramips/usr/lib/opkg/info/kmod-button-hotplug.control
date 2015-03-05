@@ -1,0 +1,8 @@
+Package: kmod-button-hotplug
+Version: 3.10.13-3
+Depends: kernel (=3.10.13-1-b2951527f9c54e76859543e2f3f34d7e), kmod-input-core
+Source: package/kernel/button-hotplug
+Section: kernel
+Architecture: ramips_24kec
+Installed-Size: 2840
+Description:  Kernel module to generate button hotplug events

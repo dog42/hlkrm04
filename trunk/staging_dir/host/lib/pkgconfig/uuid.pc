@@ -1,0 +1,11 @@
+prefix=/home/dogi/openwrt/trunk/staging_dir/host
+exec_prefix=/home/dogi/openwrt/trunk/staging_dir/host
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 1.42.7
+Requires: 
+Cflags: -I${includedir}/uuid -I${includedir}
+Libs: -L${libdir} -luuid

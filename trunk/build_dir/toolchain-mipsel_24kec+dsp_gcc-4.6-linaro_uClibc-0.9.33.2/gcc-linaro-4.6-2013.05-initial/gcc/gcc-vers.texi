@@ -1,0 +1,5 @@
+@set version-GCC 4.6.4
+@clear DEVELOPMENT
+@set srcdir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc
+@set VERSION_PACKAGE (OpenWrt/Linaro GCC 4.6-2013.05 r38333) 
+@set BUGURL @uref{https://dev.openwrt.org/}

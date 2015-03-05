@@ -1,0 +1,11 @@
+dir .
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/ada
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/cp
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/fortran
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/go
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/java
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/lto
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/objc
+dir /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/objcp
+source /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/gcc/gdbinit.in

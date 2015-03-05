@@ -1,0 +1,10 @@
+Package: kmod-usb-serial-mos7720
+Version: 3.10.13-1
+Depends: kernel (=3.10.13-1-b2951527f9c54e76859543e2f3f34d7e), kmod-usb-serial
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Status: unknown hold not-installed
+Architecture: ramips_24kec
+Installed-Size: 5442
+Description:  Kernel support for Moschip MOS7720 USB-to-Serial converters

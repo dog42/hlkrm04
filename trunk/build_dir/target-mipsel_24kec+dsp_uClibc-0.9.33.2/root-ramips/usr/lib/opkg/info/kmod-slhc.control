@@ -1,0 +1,10 @@
+Package: kmod-slhc
+Version: 3.10.13-1
+Depends: kernel (=3.10.13-1-b2951527f9c54e76859543e2f3f34d7e), kmod-lib-crc-ccitt
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Status: unknown hold not-installed
+Architecture: ramips_24kec
+Installed-Size: 3297
+Description:  Serial Line Header Compression

@@ -1,0 +1,72 @@
+_muldi3.o: \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/libgcc2.c \
+ ../.././gcc/tconfig.h ../.././gcc/auto-host.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../include/ansidecl.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/tsystem.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05-minimal/./gcc/include/stddef.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05-minimal/./gcc/include/float.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../include/filenames.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/coretypes.h \
+ ../.././gcc/tm.h ../.././gcc/options.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/flag-types.h \
+ ../.././gcc/insn-constants.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/dbxelf.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/elfos.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/gnu-user.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/linux.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/glibc-stdint.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/mips/mips.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/vxworks-dummy.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/linux-android.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/mips/linux.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/defaults.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/libgcc2.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/longlong.h
+
+../.././gcc/tconfig.h:
+
+../.././gcc/auto-host.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../include/ansidecl.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/tsystem.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05-minimal/./gcc/include/stddef.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05-minimal/./gcc/include/float.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../include/filenames.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/coretypes.h:
+
+../.././gcc/tm.h:
+
+../.././gcc/options.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/flag-types.h:
+
+../.././gcc/insn-constants.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/dbxelf.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/elfos.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/gnu-user.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/linux.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/glibc-stdint.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/mips/mips.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/vxworks-dummy.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/linux-android.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/mips/linux.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/defaults.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/libgcc2.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/longlong.h:

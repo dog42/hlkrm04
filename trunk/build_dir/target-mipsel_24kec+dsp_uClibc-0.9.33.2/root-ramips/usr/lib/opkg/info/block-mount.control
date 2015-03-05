@@ -1,0 +1,12 @@
+Package: block-mount
+Version: 2013-09-29-887256e92838ef94eeea8d7ba06ff078c7e05296
+Depends: libc, ubox, libubox, libuci
+Source: package/system/ubox
+SourceFile: ubox-2013-09-29-887256e92838ef94eeea8d7ba06ff078c7e05296.tar.gz
+SourceURL: git://nbd.name/luci2/ubox.git
+License: GPLv2
+Section: base
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 14540
+Description:  Block device mounting and checking

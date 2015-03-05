@@ -1,0 +1,23 @@
+mkdeps.o: \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/mkdeps.c \
+ config.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/system.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/filenames.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/libiberty.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/ansidecl.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/safe-ctype.h \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/include/mkdeps.h
+
+config.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/system.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/filenames.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/libiberty.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/ansidecl.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/../include/safe-ctype.h:
+
+/home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libcpp/include/mkdeps.h:

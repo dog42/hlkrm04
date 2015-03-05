@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests
+# Build directory: /home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests
+# 
+# This file includes the relevent testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+ADD_TEST(CMake.List "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ListTest.cmake")
+ADD_TEST(CMake.VariableWatch "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/VariableWatchTest.cmake")
+ADD_TEST(CMake.Include "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/IncludeTest.cmake")
+ADD_TEST(CMake.FindBase "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/FindBaseTest.cmake")
+ADD_TEST(CMake.Toolchain "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ToolchainTest.cmake")
+ADD_TEST(CMake.GetFilenameComponentRealpath "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/GetFilenameComponentRealpathTest.cmake")
+ADD_TEST(CMake.Version "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/VersionTest.cmake")
+ADD_TEST(CMake.Message "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/MessageTest.cmake")
+ADD_TEST(CMake.File "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/FileTest.cmake")
+ADD_TEST(CMake.ConfigureFile "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ConfigureFileTest.cmake")
+ADD_TEST(CMake.SeparateArguments "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/SeparateArgumentsTest.cmake")
+ADD_TEST(CMake.ImplicitLinkInfo "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ImplicitLinkInfoTest.cmake")
+ADD_TEST(CMake.ModuleNotices "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ModuleNoticesTest.cmake")
+ADD_TEST(CMake.GetProperty "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/GetPropertyTest.cmake")
+ADD_TEST(CMake.If "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/IfTest.cmake")
+ADD_TEST(CMake.String "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/StringTest.cmake")
+ADD_TEST(CMake.Math "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/MathTest.cmake")
+ADD_TEST(CMake.CMakeMinimumRequired "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/CMakeMinimumRequiredTest.cmake")
+ADD_TEST(CMake.CompilerIdVendor "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/CompilerIdVendorTest.cmake")
+ADD_TEST(CMake.ProcessorCount "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-DKWSYS_TEST_EXE=/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Source/kwsys/cmsysTestsCxx" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ProcessorCountTest.cmake")
+ADD_TEST(CMake.PushCheckState "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/PushCheckStateTest.cmake")
+ADD_TEST(CMake.While "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/WhileTest.cmake")
+ADD_TEST(CMake.FileDownload "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/FileDownloadTest.cmake")
+SET_TESTS_PROPERTIES(CMake.FileDownload PROPERTIES  PASS_REGULAR_EXPRESSION "file already exists with expected MD5 sum")
+ADD_TEST(CMake.FileUpload "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/FileUploadTest.cmake")
+ADD_TEST(CMake.ELF "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/ELFTest.cmake")
+ADD_TEST(CMake.EndStuff "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-Ddir:STRING=/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/EndStuffTest" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/EndStuffTest.cmake")
+ADD_TEST(CMake.GetPrerequisites "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-DCTEST_CONFIGURATION_TYPE:STRING=\${CTEST_CONFIGURATION_TYPE}" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/GetPrerequisitesTest.cmake")
+ADD_TEST(CMake.CheckSourceTree "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/bin/cmake" "-DCMake_BINARY_DIR:PATH=/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2" "-DCMake_SOURCE_DIR:PATH=/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2" "-DGIT_EXECUTABLE:STRING=/usr/bin/git" "-DHOME:STRING=/home/dogi" "-P" "/home/dogi/openwrt/trunk/build_dir/host/cmake-2.8.11.2/Tests/CMakeTests/CheckSourceTreeTest.cmake")

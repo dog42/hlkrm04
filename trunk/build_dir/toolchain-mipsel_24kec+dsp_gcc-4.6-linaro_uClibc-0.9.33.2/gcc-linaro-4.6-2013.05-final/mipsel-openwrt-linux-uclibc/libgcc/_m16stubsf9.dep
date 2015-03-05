@@ -1,0 +1,5 @@
+_m16stubsf9.o: \
+ /home/dogi/openwrt/trunk/build_dir/toolchain-mipsel_24kec+dsp_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/libgcc/../gcc/config/mips/mips16.S \
+ _m16stubsf9.vis
+
+_m16stubsf9.vis:

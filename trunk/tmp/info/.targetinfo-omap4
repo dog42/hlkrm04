@@ -1,0 +1,19 @@
+Source-Makefile: target/linux/omap4/Makefile
+Target: omap4
+Target-Board: omap4
+Target-Name: TI OMAP4
+Target-Path: /home/dogi/openwrt/trunk
+Target-Arch: arm
+Target-Arch-Packages: omap4
+Target-Features: audio display gpio rtc targz usb
+Target-Depends: 
+Target-Optimization: -Os -pipe -march=armv7-a -mtune=cortex-a9 -mfpu=vfpv3-d16 -mfloat-abi=softfp
+CPU-Type: cortex-a9+vfpv3
+Linux-Version: 3.3.8
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+	TI OMAP4
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd 
+

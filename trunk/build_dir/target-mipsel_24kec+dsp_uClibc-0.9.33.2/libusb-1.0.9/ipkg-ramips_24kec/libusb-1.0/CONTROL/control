@@ -1,0 +1,12 @@
+Package: libusb-1.0
+Version: 1.0.9-1
+Depends: libc, libpthread, librt
+Source: package/libs/libusb
+SourceFile: libusb-1.0.9.tar.bz2
+SourceURL: @SF/libusb
+Section: libs
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 22752
+Description:  libusb is a C library that gives applications easy access to USB devices on
+ many different operating systems.
